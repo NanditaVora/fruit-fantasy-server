@@ -1,0 +1,22 @@
+{
+  "name": "fruit-fantasy-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch fruits.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NanditaVora/fruit-fantasy-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NanditaVora/fruit-fantasy-server/issues"
+  },
+  "homepage": "https://github.com/NanditaVora/fruit-fantasy-server#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
